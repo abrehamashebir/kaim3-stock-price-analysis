@@ -4,6 +4,7 @@
 This project analyzes correlations between financial news sentiment and stock price movements for major companies like Apple and Amazon. The system combines exploratory stock data analysis with NLP-based news sentiment evaluation.
 
 ## Repository Structure
+```bash
 kaim3-stock-price-analysis
 ├── datasets
 ├── LICENSE
@@ -23,6 +24,7 @@ kaim3-stock-price-analysis
 │   └── word_analyer.py
 └── tests
     └── __init__.py
+```
 
 ## Installation
 ```bash
