@@ -28,12 +28,19 @@ kaim3-stock-price-analysis
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/kaim3-stock-price-analysis.git
+git clone https://github.com/your-username/kaim3-stock-price-analysis.git 
+```
+```bash
 cd kaim3-stock-price-analysis
-
+```
 # Create and activate virtual environment
+```bash
 python -m venv venv
+```
+```bash
 source venv/bin/activate  # Windows: venv\Scripts\activate
-
+```
 # Install dependencies
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt 
+```
